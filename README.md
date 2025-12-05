@@ -1,7 +1,7 @@
 ## Hi there, I'm Srivarshitha👋
 
 <!--
-**16srivarshitha/16srivarshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**16srivarshitha/16srivarshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ECE Student at IIIT Hyderabad • Exploring the intersection of Silicon & Intelligence
 

@@ -18,5 +18,3 @@ ECE Student at IIIT Hyderabad • Exploring ML & Computer Architecture
 - Building both ML models and hardware systems
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16srivarshitha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16srivarshitha&layout=compact&theme=radical)

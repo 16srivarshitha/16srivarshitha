@@ -5,9 +5,6 @@
 ### ECE Student at IIIT Hyderabad
 **Exploring the intersection of Silicon & Intelligence**
 
-[![GitHub followers](https://img.shields.io/github/followers/16srivarshitha?style=social)](https://github.com/16srivarshitha)
-
-</div>
 
 ---
 

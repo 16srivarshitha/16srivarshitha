@@ -60,8 +60,3 @@ Interested in collaboration on performance modeling, learning architectures, or 
 
 ---
 
-<div align="center">
-  
-*"From transistors to transformers"*
-
-</div>

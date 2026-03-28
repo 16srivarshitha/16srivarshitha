@@ -17,7 +17,7 @@ compilation pipeline.
 
 ## Other Contributions
 
-- [riscv-perfmodel #284](https://github.com/riscv-software-src/riscv-perfmodel/pull/284) — 
+- [riscv-perfmodel #284](https://github.com/riscv-software-src/riscv-perf-model/pull/284) — 
   Add git SHA to simulation output
 - [tt-metal #39781](https://github.com/tenstorrent/tt-metal/pull/39781) — 
   RT-DETR model bringup and optimizations

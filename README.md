@@ -11,12 +11,8 @@ ECE @ IIIT Hyderabad. I work at the intersection of computer architecture, compi
 
 **RISC-V & Custom Silicon**
 - [riscv-perf-model #284](https://github.com/riscv-software-src/riscv-perf-model/pull/284) — Git SHA tracking & version reproducibility in official Olympia simulator output.
-- [tt-metal #39781](https://github.com/tenstorrent/tt-metal/pull/39781) — RT-DETR bringup on Tenstorrent Wormhole N300 (1199 FPS, 0.83ms).
 
 ## Featured Projects
-
-**[RISC-V HPC Transitional Libraries (HAL)](https://github.com/16srivarshitha/riscv-hpc-math-kernel-poc)**  
-Working on developing a Hardware Abstraction Layer (HAL) to port double-precision (FP64) HPC codes to RISC-V. Mapped 188+ *Numerical Recipes* applications to Berkeley Motifs, wrote `Zve64d` Vector (RVV) intrinsics for Dense Linear Algebra (GEMM), and built a zero-touch CI/CD Bash/Make pipeline for automated QEMU emulation and mathematical verification.
 
 **RISC-V 5-Stage Pipeline & C++17 ISS**  
 Designed a 64-bit pipelined RV64I core in Verilog achieving a 2.69× clock improvement (286 MHz) with 75% stall reduction via data forwarding. Architected a cycle-accurate C++17 Instruction Set Simulator (ISS) as a golden reference model for RTL verification.

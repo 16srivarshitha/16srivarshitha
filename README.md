@@ -26,8 +26,8 @@ Architected a complete Transformer model from scratch (Multi-Head Self-Attention
 ## Languages & Tools
 
 **Languages:** C/C++ (C++17) · Python · Verilog · SystemVerilog · RISC-V Assembly · Bash  
-**Infrastructure & Compilers:** LLVM IR · CMake · Make · Git · QEMU · Vivado  
-**Frameworks & HPC:** PyTorch · RVV Intrinsics (Vector Math) · ttnn
+**Infrastructure & Compilers:** LLVM IR · CMake · Make · Git · Vivado  
+**Frameworks & HPC:** PyTorch · RVV Intrinsics (Vector Math) 
 
 ## Contact
 

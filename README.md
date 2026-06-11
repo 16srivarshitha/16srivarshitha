@@ -11,6 +11,7 @@ ECE @ IIIT Hyderabad. I work at the intersection of computer architecture, compi
 
 **RISC-V & Custom Silicon**
 - [riscv-perf-model #284](https://github.com/riscv-software-src/riscv-perf-model/pull/284) — Git SHA tracking & version reproducibility in official Olympia simulator output.
+- [tt-metal #39781](https://github.com/tenstorrent/tt-metal/pull/39781) — RT-DETR bringup on Tenstorrent Wormhole N300 (49.8 mAP on COCO val2017).
 
 ## Featured Projects
 

@@ -1,17 +1,18 @@
 # Srivarshitha Medarametla
 
-ECE @ IIIT Hyderabad. I work at the intersection of computer architecture, compiler infrastructure, and high-performance computing (HPC). My focus is on RISC-V, custom AI silicon, and building computational systems that are heavily optimized from the algorithm down to the hardware level.
+ECE undergrad @ IIIT Hyderabad. Currently reading the book 'How to Scale your Model' by Google Deepmind.
+I work at the intersection of computer architecture, ML and AI systems performance. My focus is on RISC-V, custom AI silicon, and building computational systems that are heavily optimized from the algorithm down to the hardware level.
 
 ## Open Source Contributions
+
+**RISC-V & Custom Silicon**
+- [riscv-perf-model #284](https://github.com/riscv-software-src/riscv-perf-model/pull/284) — Git SHA tracking & version reproducibility in official Olympia simulator output.
+- [tt-metal #39781](https://github.com/tenstorrent/tt-metal/pull/39781) — RT-DETR bringup on Tenstorrent Wormhole N300 (49.8 mAP on COCO val2017).
 
 **LLVM Project**
 - [#188004](https://github.com/llvm/llvm-project/pull/188004) — [CIR][CUDA][HIP] Stream-per-thread kernel launch support
 - [#184444](https://github.com/llvm/llvm-project/pull/184444) — [CIR] CUDA mangling tests with CIR and OG CodeGen verification
 - [#183998](https://github.com/llvm/llvm-project/pull/183998) — [CIR] Upstream basic CodeGen tests from incubator
-
-**RISC-V & Custom Silicon**
-- [riscv-perf-model #284](https://github.com/riscv-software-src/riscv-perf-model/pull/284) — Git SHA tracking & version reproducibility in official Olympia simulator output.
-- [tt-metal #39781](https://github.com/tenstorrent/tt-metal/pull/39781) — RT-DETR bringup on Tenstorrent Wormhole N300 (49.8 mAP on COCO val2017).
 
 ## Featured Projects
 
